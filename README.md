@@ -1,5 +1,4 @@
 # rittal_vuln
-this is temp repo 4 mitre
 
 The vulnerability is definitely relevant on Rittal CMC III 7030.000 with 3.15.70_4 , but possibly on other products as well 
 the essence of the vulnerability:
